@@ -25,7 +25,7 @@ SECRET_KEY = '0(ebiqsk2yi1c^h=d7_sw%hsedw0w7&(dp+vj+_^^&tx%zos3$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['quant-finance.herokuapp.com']
 
 
 # Application definition
